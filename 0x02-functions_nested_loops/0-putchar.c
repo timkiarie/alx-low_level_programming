@@ -1,14 +1,20 @@
-#include <stdio.h>
-
+#include "main.h"
 /**
- * main - main function
- *
+ * main - print _putchar
+ * is written by tim
  * Return: always 0
  */
 
 int main(void)
 {
-	putchar('_putchar');
+	putchar('_');
+	putchar('p');
+	putchar('u');
+	putchar('t');
+	putchar('c');
+	putchar('h');
+	putchar('a');
+	putchar('r');
 	putchar('\n');
 	return (0);
 }
