@@ -4,7 +4,7 @@
  * print_diagonal - printing lines diagonal
  * @n: input variable
  *
- * Return: Always 0
+ * Return: void
  */
 
 void print_diagonal(int n)
@@ -22,5 +22,4 @@ void print_diagonal(int n)
 		_putchar('\\');
 		_putchar('\n');
 	}
-	_putchar('\n');
 }
